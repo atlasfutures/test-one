@@ -1,0 +1,43 @@
+card_image: ''
+created_at: 2025-02-14 13:51:08.528000
+creator_id: FTlCD98wWDOuzq7WuCKMdGdD1Vw2
+deployment:
+  last_deployed: null
+  type: null
+  url: ''
+description: Test Public/Private Repo
+domain: ''
+features:
+- ''
+getting_started_screen: false
+getting_started_screen_index: 0
+git:
+  branch: null
+  remote: null
+  url: https://github.com/atlasfutures/test-one
+hero_image: ''
+icon: ''
+is_published: false
+pills:
+- icon: ''
+  label: ''
+  prompt: ''
+project_id: sGR1nZaTrQ3U2Qzv1DhN
+published_at: null
+requirements:
+- description: ''
+  type: ''
+slug: test-one
+storage:
+  compression_enabled: null
+  gcs_path: null
+  last_sync: null
+  max_file_size_mb: null
+  size_bytes: null
+title: Test One
+tools:
+- name: ''
+  role: ''
+  type: ''
+  version: ''
+updated_at: 2025-02-14 13:51:08.528000
